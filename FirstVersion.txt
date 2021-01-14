@@ -1,2 +1,3 @@
 Dette er start versjonen
 Dette er ein ny linje
+Laga en tredje linje
