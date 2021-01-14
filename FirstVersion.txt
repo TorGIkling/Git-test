@@ -1,1 +1,2 @@
-Dette er min første versjon
+Dette er start versjonen
+Dette er ein ny linje
